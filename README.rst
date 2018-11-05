@@ -1,3 +1,5 @@
+#使用深度神经网络把你的二流涂鸦变成艺术一般的作品！这个项目是 Champandard（2016）的论文 “Semantic Style Transfer and Turning Two-Bit Doodles #into Fine Artworks”的一个实现，基于 Chuan Li 和 Michael Wand（2016）在论文“Combining Markov Random Fields and Convolutional Neural #Networks for Image Synthesis”中提出的 Neural Patches 算法。
+
 Neural Doodle
 =============
 
